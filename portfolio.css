@@ -165,10 +165,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/wp4024293-yuvraj-singh-wallpapers.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
-    min-height: 500px;
+    min-height: 300px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
@@ -178,7 +177,7 @@ section .title::after{
   display: flex;
 }
 .home .max-width .row{
-  margin-right: 0;
+  margin-right: 500;
 }
 .home .home-content .text-1{
     font-size: 27px;
@@ -201,7 +200,7 @@ section .title::after{
     background: crimson;
     color: #fff;
     font-size: 25px;
-    padding: 12px 36px;
+    padding: 6px 18px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
